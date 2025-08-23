@@ -13,7 +13,3 @@
   
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 </div>
-<div align="center">
-  <h3>Olá! Bem-vindo ao meu perfil. Abaixo, uma pequena partida de Breakout:</h3>
-  <img src="https://media.giphy.com/media/d9QiB3i1wJppK/giphy.gif" alt="Animação do jogo Breakout"/>
-</div>
