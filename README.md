@@ -1,5 +1,10 @@
 ## Olá, Mundo!👋
 
+<div>
+  <img src="https://www.flaticon.com/free-icon/linkedin_3536505"
+</div>
+
+
 - 🔭 I’m currently working on WebSites
 - 🌱 I’m currently learning Python 
 
