@@ -1,8 +1,6 @@
-## Olá, Mundo!👋
+## Olá, mundo!!
 
-<div>
-  <img src="https://www.flaticon.com/free-icon/linkedin_3536505"
-</div>
+<i class="fa-brands fa-linkedin"></i>
 
 
 - 🔭 I’m currently working on WebSites
