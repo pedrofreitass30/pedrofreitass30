@@ -25,7 +25,8 @@ Sou **Desenvolvedor Júnior**, trabalhando na criação de sites e explorando no
 
 ## 📫 Contato
 
-Se quiser adicionar seu LinkedIn depois é só me passar o link que eu coloco aqui com o ícone certinho:
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]((https://www.linkedin.com/in/pedro-henrique-5158742ba/))
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedro-henrique-5158742ba/)
+
 
